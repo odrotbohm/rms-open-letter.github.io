@@ -64,7 +64,6 @@ Signed,
 1. Alan Diggs (Schykle)
 1. Alan Pope
 1. Alexander Jacocks (Red Hat)
-1. Alexandra Stehr
 1. Alexandra Moylett
 1. Alexandre Dulaunoy (former FSF associate member #53)
 1. Alex Arslan (Julia contributor, former Julia community manager)
@@ -643,7 +642,6 @@ Signed,
 1. Martin Robinson (Igalia)
 1. Martin Splitt
 1. Martin Wimpress (Former FSF member)
-1. Martijn Bos(Galavanto)
 1. Mason Jones
 1. Mathieu Comandon (Lutris)
 1. Matt Beland
@@ -754,6 +752,7 @@ Signed,
 1. Norbert Tretkowski (Debian Developer, FSFE Supporter)
 1. Odhiambo Dormnic (@ayimdomnic)
 1. Ole Streicher (Debian Developer)
+1. Oliver Drotbohm
 1. Oliver Falk (Libravatar project)
 1. Olivier Berger (FSF member, or associate member since 2002)
 1. Open Source Diversity Community
